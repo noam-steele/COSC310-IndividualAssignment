@@ -77,7 +77,7 @@ Nova-ChatBot is able to hold a conversation of over 30 dialogues in order to tal
 ## Installation Guide
 
 To get a local copy up and running on your local device. You must have the Java Development Kit installed. Due to the size limit on GitHub, we are unable to upload a certain jar and the exectuable JAR file for NOVA. Here is the link to a zip folder of the completed project, which contains the runnable NOVA.jar and the necessary JARS for the toolkits to make the program run (one of which was too big to add to github): 
-[Project Zip](https://drive.google.com/file/d/1p0LmTivvN7Fl0fskFVi7iL6okCTdjte7/view?usp=sharing)
+[Project Zip](https://drive.google.com/file/d/11LUOV57NQkqNFp4Kj3wV_w8K4eWupiue/view?usp=sharing)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -85,7 +85,12 @@ To get a local copy up and running on your local device. You must have the Java 
 <!-- NEW FEATURES -->
 
 ## New Features
+Individual Assignment:
+I have implemented the wikipedia API to provide clarity on definitions of emotions. EX: A user may tell NOVA they are scared, the wikipedia API then produces information about fear and what causes fear to enable the user to understand their emotions.
 
+I have also implemented the wolfram API to return information on serious mental illnesss. Serious mental illnesses are outside of the NOVA chatbot scope, therefore if mentioned, the chatbot will query wolfram alpha for more professional information regarding the mental illness.
+
+Assignment 3:
 We have added a new emotion for the user to talk to NOVA about: fear. This encapsulates anxiety and if the user is feeling scared about something. Fear is one of the 6 primary emotions felt by people so we think it is a good addition to our agent's repitoire. 
 ![fear](./novafear.png)
 
