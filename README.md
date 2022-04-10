@@ -86,11 +86,13 @@ To get a local copy up and running on your local device. You must have the Java 
 
 ## New Features
 Individual Assignment:
+
 I have implemented the wikipedia API to provide clarity on definitions of emotions. EX: A user may tell NOVA they are scared, the wikipedia API then produces information about fear and what causes fear to enable the user to understand their emotions.
 
 I have also implemented the wolfram API to return information on serious mental illnesss. Serious mental illnesses are outside of the NOVA chatbot scope, therefore if mentioned, the chatbot will query wolfram alpha for more professional information regarding the mental illness.
 
 Assignment 3:
+
 We have added a new emotion for the user to talk to NOVA about: fear. This encapsulates anxiety and if the user is feeling scared about something. Fear is one of the 6 primary emotions felt by people so we think it is a good addition to our agent's repitoire. 
 ![fear](./novafear.png)
 
